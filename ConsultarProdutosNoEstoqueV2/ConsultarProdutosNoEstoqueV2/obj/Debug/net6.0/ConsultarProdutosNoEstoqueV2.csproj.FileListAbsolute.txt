@@ -1,0 +1,15 @@
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\bin\Debug\net6.0\ConsultarProdutosNoEstoqueV2.exe
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\bin\Debug\net6.0\ConsultarProdutosNoEstoqueV2.deps.json
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\bin\Debug\net6.0\ConsultarProdutosNoEstoqueV2.runtimeconfig.json
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\bin\Debug\net6.0\ConsultarProdutosNoEstoqueV2.dll
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\bin\Debug\net6.0\ConsultarProdutosNoEstoqueV2.pdb
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\obj\Debug\net6.0\ConsultarProdutosNoEstoqueV2.csproj.AssemblyReference.cache
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\obj\Debug\net6.0\ConsultarProdutosNoEstoqueV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\obj\Debug\net6.0\ConsultarProdutosNoEstoqueV2.AssemblyInfoInputs.cache
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\obj\Debug\net6.0\ConsultarProdutosNoEstoqueV2.AssemblyInfo.cs
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\obj\Debug\net6.0\ConsultarProdutosNoEstoqueV2.csproj.CoreCompileInputs.cache
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\obj\Debug\net6.0\ConsultarProdutosNoEstoqueV2.dll
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\obj\Debug\net6.0\refint\ConsultarProdutosNoEstoqueV2.dll
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\obj\Debug\net6.0\ConsultarProdutosNoEstoqueV2.pdb
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\obj\Debug\net6.0\ConsultarProdutosNoEstoqueV2.genruntimeconfig.cache
+C:\Users\akira\source\repos\ConsultarProdutosNoEstoqueV2\ConsultarProdutosNoEstoqueV2\obj\Debug\net6.0\ref\ConsultarProdutosNoEstoqueV2.dll
