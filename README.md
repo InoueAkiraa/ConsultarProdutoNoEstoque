@@ -3,6 +3,7 @@
 ## Como Abrir?
 
 - Descompacte o arquivo .rar ou .zip
+- Se estiver no formato pasta, é só abrir o código sem necessidade de extrair
 - Se estiver usando o Visual Studio (roxo), pode apenas abrir a solution dentro da pasta do código. 
 - Se estiver utilizando o VS Code, abra a pasta do código.
 
